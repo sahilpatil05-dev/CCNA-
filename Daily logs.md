@@ -22,3 +22,6 @@ Undertsnading the Basics of networking
 -It can be placed inside and outside the N/W
 -Firewalls that includes more advanced tech and capabilites are known as next Generation firewalls 
 
+
+#Introduction to Cisco Packet Tracer 
+Started by building  a simple network that includes 2 clients connected to a 2960 Switch connevted to the Router (2911) and further included 2 ASA 5505 Firewalls connected Trough the Internet 
